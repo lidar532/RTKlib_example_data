@@ -1,0 +1,89 @@
+PROGRAM = datasheet95, VERSION = 8.12.5.2
+1        National Geodetic Survey,   Retrieval Date = FEBRUARY 21, 2019
+ DM5962 ***********************************************************************
+ DM5962  CORS        -  This is a GPS Continuously Operating Reference Station.
+ DM5962  DESIGNATION -  CDOT GOLDEN CORS ARP
+ DM5962  CORS_ID     -  CTMC
+ DM5962  PID         -  DM5962
+ DM5962  STATE/COUNTY-  CO/JEFFERSON
+ DM5962  COUNTRY     -  US
+ DM5962  USGS QUAD   -  MORRISON (1994)
+ DM5962
+ DM5962                         *CURRENT SURVEY CONTROL
+ DM5962  ______________________________________________________________________
+ DM5962* NAD 83(2011) POSITION- 39 43 17.49315(N) 105 11 34.33560(W)   ADJUSTED  
+ DM5962* NAD 83(2011) ELLIP HT-  1819.836 (meters)        (08/??/11)   ADJUSTED
+ DM5962* NAD 83(2011) EPOCH   -  2010.00
+ DM5962  ______________________________________________________________________
+ DM5962  GEOID HEIGHT    -        -15.754 (meters)                     GEOID12B
+ DM5962  NAD 83(2011) X  - -1,287,787.768 (meters)                     COMP
+ DM5962  NAD 83(2011) Y  - -4,742,178.364 (meters)                     COMP
+ DM5962  NAD 83(2011) Z  -  4,055,414.614 (meters)                     COMP
+ DM5962
+ DM5962.Formal positional accuracy estimates are not available for this CORS
+ DM5962.because its coordinates were determined in part using modeled
+ DM5962.velocities. Approximate one-sigma accuracies for latitude, longitude,
+ DM5962.and ellipsoid height can be obtained from the short-term time series.
+ DM5962.Additional information regarding modeled velocities is available on
+ DM5962.the CORS Coordinates and Multi-Year CORS Solution FAQ web pages.
+ DM5962
+ DM5962.The coordinates were established by GPS observations
+ DM5962.and adjusted by the National Geodetic Survey in August 2011.
+ DM5962
+ DM5962.NAD 83(2011) refers to NAD 83 coordinates where the reference frame has 
+ DM5962.been affixed to the stable North American Tectonic Plate. 
+ DM5962
+ DM5962.The coordinates are valid at the epoch date displayed above
+ DM5962.which is a decimal equivalence of Year/Month/Day.
+ DM5962
+ DM5962.Significant digits in the geoid height do not necessarily reflect accuracy.
+ DM5962.GEOID12B height accuracy estimate available here.
+ DM5962
+ DM5962.The PID for the CORS L1 Phase Center is DM5963.
+ DM5962
+ DM5962.The XYZ, and position/ellipsoidal ht. are equivalent.
+ DM5962
+ DM5962.The ellipsoidal height was determined by GPS observations
+ DM5962.and is referenced to NAD 83.
+ DM5962
+ DM5962. The following values were computed from the NAD 83(2011) position.
+ DM5962
+ DM5962;                    North         East     Units Scale Factor Converg.
+ DM5962;SPC CO C     -   514,455.049   940,734.791   MT  0.99999449   +0 11 37.3
+ DM5962;SPC CO C     - 1,687,841.27  3,086,394.06   sFT  0.99999449   +0 11 37.3
+ DM5962;UTM  13      - 4,396,867.839   483,469.901   MT  0.99960336   -0 07 23.7
+ DM5962
+ DM5962!             -  Elev Factor  x  Scale Factor =   Combined Factor
+ DM5962!SPC CO C     -   0.99971458  x   0.99999449  =   0.99970907
+ DM5962!UTM  13      -   0.99971458  x   0.99960336  =   0.99931805
+ DM5962
+ DM5962_U.S. NATIONAL GRID SPATIAL ADDRESS: 13SDD8346996867(NAD 83)
+ DM5962
+ DM5962                          SUPERSEDED SURVEY CONTROL
+ DM5962
+ DM5962  NAD 83(CORS)-  39 43 17.49312(N)    105 11 34.33640(W) AD(2002.00) c
+ DM5962  ELLIP H (03/??/11) 1819.837  (m)                       GP(2002.00) c c
+ DM5962
+ DM5962.Superseded values are not recommended for survey control.
+ DM5962
+ DM5962.NGS no longer adjusts projects to the NAD 27 or NGVD 29 datums.
+ DM5962.See file dsdata.pdf to determine how the superseded data were derived.
+ DM5962
+ DM5962_MARKER: STATION IS THE ANTENNA REFERENCE POINT OF THE GPS ANTENNA
+ DM5962
+ DM5962                          STATION DESCRIPTION
+ DM5962
+ DM5962'DESCRIBED BY NATIONAL GEODETIC SURVEY 2011
+ DM5962'STATION IS A GPS CORS.  LATEST INFORMATION INCLUDING POSITIONS AND
+ DM5962'VELOCITIES ARE AVAILABLE IN THE COORDINATE AND LOG FILES ACCESSIBLE
+ DM5962'BY ANONYMOUS FTP OR THE WORLDWIDE WEB.
+ DM5962'   ftp://cors.ngs.noaa.gov/cors/README.txt
+ DM5962'   ftp://cors.ngs.noaa.gov/cors/coord/coord_08 
+ DM5962'   ftp://cors.ngs.noaa.gov/cors/station_log 
+ DM5962'   http://geodesy.noaa.gov/CORS
+
+ *** retrieval complete.
+ Elapsed Time = 00:00:11
+
+
+

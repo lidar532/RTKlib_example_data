@@ -1,0 +1,91 @@
+PROGRAM = datasheet95, VERSION = 8.10
+1        National Geodetic Survey,   Retrieval Date = NOVEMBER 17, 2016
+ DO2877 ***********************************************************************
+ DO2877  HT_MOD      -  This is a Height Modernization Survey Station.
+ DO2877  CORS        -  This is a GPS Continuously Operating Reference Station.
+ DO2877  DESIGNATION -  BODIE ISLAND CORS ARP
+ DO2877  CORS_ID     -  NCBI
+ DO2877  PID         -  DO2877
+ DO2877  STATE/COUNTY-  NC/DARE
+ DO2877  COUNTRY     -  US
+ DO2877  USGS QUAD   -  OREGON INLET (1983)
+ DO2877
+ DO2877                         *CURRENT SURVEY CONTROL
+ DO2877  ______________________________________________________________________
+ DO2877* NAD 83(2011) POSITION- 35 50 44.35730(N) 075 33 48.94199(W)   ADJUSTED  
+ DO2877* NAD 83(2011) ELLIP HT-   -33.046 (meters)        (01/??/13)   ADJUSTED
+ DO2877* NAD 83(2011) EPOCH   -  2010.00
+ DO2877* NAVD 88 ORTHO HEIGHT -     5.94  (meters)       19.5   (feet) GPS OBS   
+ DO2877  ______________________________________________________________________
+ DO2877  NAVD 88 orthometric height was determined with geoid model    GEOID12A
+ DO2877  GEOID HEIGHT    -        -38.964 (meters)                     GEOID12A
+ DO2877  GEOID HEIGHT    -        -38.964 (meters)                     GEOID12B
+ DO2877  NAD 83(2011) X  -  1,290,408.921 (meters)                     COMP
+ DO2877  NAD 83(2011) Y  - -5,012,586.520 (meters)                     COMP
+ DO2877  NAD 83(2011) Z  -  3,714,303.745 (meters)                     COMP
+ DO2877
+ DO2877.Formal positional accuracy estimates are not available for this CORS
+ DO2877.because its coordinates were determined in part using modeled
+ DO2877.velocities. Approximate one-sigma accuracies for latitude, longitude,
+ DO2877.and ellipsoid height can be obtained from the short-term time series.
+ DO2877.Additional information regarding modeled velocities is available on
+ DO2877.the CORS Coordinates and Multi-Year CORS Solution FAQ web pages.
+ DO2877
+ DO2877.The coordinates were established by GPS observations
+ DO2877.and adjusted by the National Geodetic Survey in January 2013.
+ DO2877
+ DO2877.NAD 83(2011) refers to NAD 83 coordinates where the reference frame has 
+ DO2877.been affixed to the stable North American Tectonic Plate. 
+ DO2877
+ DO2877.The coordinates are valid at the epoch date displayed above
+ DO2877.which is a decimal equivalence of Year/Month/Day.
+ DO2877
+ DO2877.The orthometric height was determined by GPS observations and a
+ DO2877.high-resolution geoid model using precise GPS observation and
+ DO2877.processing techniques.
+ DO2877
+ DO2877.Significant digits in the geoid height do not necessarily reflect accuracy.
+ DO2877.GEOID12B height accuracy estimate available here.
+ DO2877
+ DO2877.The PID for the CORS L1 Phase Center is DQ1147.
+ DO2877
+ DO2877.The XYZ, and position/ellipsoidal ht. are equivalent.
+ DO2877
+ DO2877.The ellipsoidal height was determined by GPS observations
+ DO2877.and is referenced to NAD 83.
+ DO2877
+ DO2877. The following values were computed from the NAD 83(2011) position.
+ DO2877
+ DO2877;                    North         East     Units Scale Factor Converg.
+ DO2877;SPC NC       -   237,848.248   919,957.886   MT  0.99992620   +1 59 00.2
+ DO2877;SPC NC       -   780,340.46  3,018,228.50   sFT  0.99992620   +1 59 00.2
+ DO2877;UTM  18      - 3,966,976.123   449,105.468   MT  0.99963192   -0 19 48.2
+ DO2877
+ DO2877!             -  Elev Factor  x  Scale Factor =   Combined Factor
+ DO2877!SPC NC       -   1.00000519  x   0.99992620  =   0.99993139
+ DO2877!UTM  18      -   1.00000519  x   0.99963192  =   0.99963710
+ DO2877
+ DO2877_U.S. NATIONAL GRID SPATIAL ADDRESS: 18SVE4910566976(NAD 83)
+ DO2877
+ DO2877                          SUPERSEDED SURVEY CONTROL
+ DO2877
+ DO2877.No superseded survey control is available for this station.
+ DO2877
+ DO2877_MARKER: STATION IS THE ANTENNA REFERENCE POINT OF THE GPS ANTENNA
+ DO2877
+ DO2877                          STATION DESCRIPTION
+ DO2877
+ DO2877'DESCRIBED BY NATIONAL GEODETIC SURVEY 2013
+ DO2877'STATION IS A GPS CORS.  LATEST INFORMATION INCLUDING POSITIONS AND
+ DO2877'VELOCITIES ARE AVAILABLE IN THE COORDINATE AND LOG FILES ACCESSIBLE
+ DO2877'BY ANONYMOUS FTP OR THE WORLDWIDE WEB.
+ DO2877'   ftp://cors.ngs.noaa.gov/cors/README.txt
+ DO2877'   ftp://cors.ngs.noaa.gov/cors/coord/coord_08 
+ DO2877'   ftp://cors.ngs.noaa.gov/cors/station_log 
+ DO2877'   http://geodesy.noaa.gov/CORS
+
+ *** retrieval complete.
+ Elapsed Time = 00:00:02
+
+
+
